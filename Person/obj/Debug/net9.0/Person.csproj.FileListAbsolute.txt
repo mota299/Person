@@ -34,3 +34,4 @@ C:\2-back-end\ProjetoAPI\Person\obj\Debug\net9.0\ref\Person.dll
 C:\2-back-end\ProjetoAPI\Person\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\2-back-end\ProjetoAPI\Person\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\2-back-end\ProjetoAPI\Person\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\2-back-end\ProjetoAPI\Person\obj\Debug\net9.0\Person.sourcelink.json
