@@ -14,9 +14,9 @@
           "200": {
             "description": "OK",
             "content": {
-              "text/plain": {
+              "application/json": {
                 "schema": {
-                  "type": "string"
+                  "$ref": "#/components/schemas/PersonModel"
                 }
               }
             }
@@ -25,5 +25,22 @@
       }
     }
   },
-  "components": { }
+  "components": {
+    "schemas": {
+      "PersonModel": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
 }

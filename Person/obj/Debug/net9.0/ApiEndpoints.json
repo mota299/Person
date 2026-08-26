@@ -1,7 +1,7 @@
 [
   {
-    "ContainingType": "Program\u002B\u003C\u003Ec",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_0",
+    "ContainingType": "Person.Routes.PersonRoute\u002B\u003C\u003Ec",
+    "Method": "\u003CPersonRoutes\u003Eb__0_0",
     "RelativePath": "person",
     "HttpMethod": "GET",
     "IsController": false,
@@ -9,9 +9,9 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.String",
+        "Type": "Person.Models.PersonModel",
         "MediaTypes": [
-          "text/plain"
+          "application/json"
         ],
         "StatusCode": 200
       }
