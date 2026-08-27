@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\2-back-end\\ProjetoAPI\\Person\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A8FC7D9-3677-8254-D997-506783A5D15E}|Person.csproj|c:\\2-back-end\\projetoapi\\person\\routes\\personroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A8FC7D9-3677-8254-D997-506783A5D15E}|Person.csproj|solutionrelative:routes\\personroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7A8FC7D9-3677-8254-D997-506783A5D15E}|Person.csproj|c:\\2-back-end\\projetoapi\\person\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A8FC7D9-3677-8254-D997-506783A5D15E}|Person.csproj|solutionrelative:models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8FC7D9-3677-8254-D997-506783A5D15E}|Person.csproj|c:\\2-back-end\\projetoapi\\person\\routes\\personroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8FC7D9-3677-8254-D997-506783A5D15E}|Person.csproj|solutionrelative:routes\\personroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A8FC7D9-3677-8254-D997-506783A5D15E}|Person.csproj|c:\\2-back-end\\projetoapi\\person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PersonModel.cs",
               "DocumentMoniker": "C:\\2-back-end\\ProjetoAPI\\Person\\Models\\PersonModel.cs",
               "RelativeDocumentMoniker": "Models\\PersonModel.cs",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PersonRoute.cs",
               "DocumentMoniker": "C:\\2-back-end\\ProjetoAPI\\Person\\Routes\\PersonRoute.cs",
               "RelativeDocumentMoniker": "Routes\\PersonRoute.cs",
@@ -68,8 +68,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-24T13:21:32.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-24T13:21:32.393Z"
             }
           ]
         }
