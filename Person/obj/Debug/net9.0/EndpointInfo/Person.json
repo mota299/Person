@@ -6,20 +6,23 @@
   },
   "paths": {
     "/person": {
-      "get": {
+      "post": {
         "tags": [
           "Person"
         ],
-        "responses": {
-          "200": {
-            "description": "OK",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/PersonModel"
-                }
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PersonRequest"
               }
             }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
           }
         }
       }
@@ -27,13 +30,9 @@
   },
   "components": {
     "schemas": {
-      "PersonModel": {
+      "PersonRequest": {
         "type": "object",
         "properties": {
-          "id": {
-            "type": "string",
-            "format": "uuid"
-          },
           "name": {
             "type": "string",
             "nullable": true

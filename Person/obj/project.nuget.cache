@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "O+vddr96V9E=",
+  "dgSpecHash": "GJ015ruZgR8=",
   "success": true,
   "projectFilePath": "C:\\2-back-end\\ProjetoAPI\\Person\\Person.csproj",
   "expectedPackageFiles": [
@@ -42,7 +42,8 @@
     "C:\\Users\\max senna\\.nuget\\packages\\microsoft.openapi\\1.6.25\\microsoft.openapi.1.6.25.nupkg.sha512",
     "C:\\Users\\max senna\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
     "C:\\Users\\max senna\\.nuget\\packages\\mysql.data\\9.7.0\\mysql.data.9.7.0.nupkg.sha512",
-    "C:\\Users\\max senna\\.nuget\\packages\\mysql.data.entityframeworkcore\\8.0.22\\mysql.data.entityframeworkcore.8.0.22.nupkg.sha512",
+    "C:\\Users\\max senna\\.nuget\\packages\\mysqlconnector\\2.4.0\\mysqlconnector.2.4.0.nupkg.sha512",
+    "C:\\Users\\max senna\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\9.0.0\\pomelo.entityframeworkcore.mysql.9.0.0.nupkg.sha512",
     "C:\\Users\\max senna\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.12\\sqlitepclraw.bundle_e_sqlite3.2.1.12.nupkg.sha512",
     "C:\\Users\\max senna\\.nuget\\packages\\sqlitepclraw.core\\2.1.12\\sqlitepclraw.core.2.1.12.nupkg.sha512",
     "C:\\Users\\max senna\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.12\\sqlitepclraw.lib.e_sqlite3.2.1.12.nupkg.sha512",

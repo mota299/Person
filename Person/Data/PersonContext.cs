@@ -10,7 +10,7 @@ namespace Person.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseMySQL(connectionString: "Data Source=person.Sqlite");
+            optionsBuilder.UseSqlite(connectionString: "Data Source=person.Sqlite");
             base.OnConfiguring(optionsBuilder);
         }
     }
