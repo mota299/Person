@@ -25,6 +25,16 @@
             "description": "OK"
           }
         }
+      },
+      "get": {
+        "tags": [
+          "Person"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
       }
     }
   },

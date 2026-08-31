@@ -21,7 +21,7 @@ namespace Person.Routes
 
             route.MapGet(pattern: "", async (PersonContext context) =>
             {
-                var people:List<PersonModel> = await context.People.ToListAsync();
+                List<PersonModel> people = await context.People.ToListAsync();
 
                 return Results.Ok(people);
             });
