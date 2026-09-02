@@ -10,5 +10,10 @@
         public Guid Id { get; init; }
 
         public string Name { get; private set; } = string.Empty;
+
+        public void ChangeName(string name)
+        {
+            Name = name;
+        }
     }
 }
